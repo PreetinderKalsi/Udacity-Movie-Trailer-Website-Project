@@ -25,7 +25,6 @@ In order to run this project on Windows take the following steps:
 <li>  Type the following command</li>
 
 <em> python entertainment.py</em>
--
 
 ## Run This Project In Mac OS
 In order to run this project on Mac take the following steps:
