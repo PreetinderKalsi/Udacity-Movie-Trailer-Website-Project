@@ -9,7 +9,7 @@ This Python based program produces a HTML file for a movie website which display
 
 ## Contents
 This Project Contains the following files:
-<li> entertainment.py</li>
+<li> entertainment_center.py</li>
 <li> fresh_tomatoes.py</li>
 <li> media.py</li>
 
